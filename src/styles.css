@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@400;700&display=swap");
+
+.App {
+  font-family: Dongle, sans-serif;
+  text-align: center;
+}
+
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+
+body {
+  /* font-family: "Dongle", sans-serif; */
+  background-color: dimgray;
+}
+
+.libBtn {
+  background-color: #af1313;
+  border: none;
+  color: lightgray;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 40px 20px;
+  cursor: pointer;
+  border-radius: 1rem 0rem;
+  font-family: Dongle, sans-serif;
+}
+
+.libView {
+  color: whitesmoke;
+  background-color: slategray;
+  font-size: 1.7rem;
+  padding: 1rem 1rem;
+  margin: 2rem auto;
+  border-style: solid;
+  border-color: lightslategrey;
+  text-align: center;
+  width: 50rem;
+  border-radius: 2rem;
+  line-height: 2rem;
+}
+
+.libViewHead {
+  color: peachpuff;
+  background-color: slategray;
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+footer {
+  font-weight: 700;
+  font-size: 2rem;
+  color: silver;
+  padding: 1rem 1rem;
+  margin: auto;
+}
